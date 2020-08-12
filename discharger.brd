@@ -102,6 +102,8 @@
 <text x="0.762" y="54.864" size="0.8128" layer="25">2.45V</text>
 <text x="4.064" y="54.864" size="0.8128" layer="25">2.65V</text>
 <wire x1="0" y1="60.96" x2="35.56" y2="60.96" width="0" layer="20"/>
+<text x="25.4" y="1.27" size="0.8128" layer="26" rot="MR0">https://tinyurl.com/LTOBalance</text>
+<text x="7.62" y="1.27" size="0.8128" layer="26" rot="MR0">&gt;REV</text>
 </plain>
 <libraries>
 <library name="pinhead" urn="urn:adsk.eagle:library:325">
@@ -1464,6 +1466,7 @@ package type OT</description>
 </library>
 </libraries>
 <attributes>
+<attribute name="REV" value="v0.01"/>
 </attributes>
 <variantdefs>
 </variantdefs>
@@ -1656,9 +1659,7 @@ design rules under a new name.</description>
 </autorouter>
 <elements>
 <element name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X13" package3d_urn="urn:adsk.eagle:package:22421/2" value="LTOBMS" x="17.78" y="58.42" smashed="yes">
-<attribute name="NAME" x="3.7338" y="60.2488" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="5" x="17.78" y="58.42" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="15.24" y="60.325" size="1.27" layer="27"/>
 </element>
 <element name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" package="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM" x="25.4" y="3.302" smashed="yes" rot="R270">
 <attribute name="NAME" x="23.114" y="4.572" size="1.27" layer="25"/>
