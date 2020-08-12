@@ -102,7 +102,7 @@
 <text x="0.762" y="54.864" size="0.8128" layer="25">2.45V</text>
 <text x="4.064" y="54.864" size="0.8128" layer="25">2.65V</text>
 <wire x1="0" y1="60.96" x2="35.56" y2="60.96" width="0" layer="20"/>
-<text x="25.4" y="1.27" size="0.8128" layer="26" rot="MR0">https://tinyurl.com/LTOBalance</text>
+<text x="27.94" y="1.27" size="0.8128" layer="26" rot="MR0">https://tinyurl.com/LTOBalance</text>
 <text x="7.62" y="1.27" size="0.8128" layer="26" rot="MR0">&gt;REV</text>
 </plain>
 <libraries>
