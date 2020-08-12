@@ -81,7 +81,7 @@
 <text x="4.064" y="4.572" size="0.8128" layer="25">2.65V</text>
 <text x="0.762" y="9.144" size="0.8128" layer="25">2.45V</text>
 <text x="4.064" y="9.144" size="0.8128" layer="25">2.65V</text>
-<text x="0.762" y="13.716" size="0.8128" layer="27">2.45V</text>
+<text x="0.762" y="13.716" size="0.8128" layer="25">2.45V</text>
 <text x="4.064" y="13.716" size="0.8128" layer="25">2.65V</text>
 <text x="0.762" y="18.288" size="0.8128" layer="25">2.45V</text>
 <text x="4.064" y="18.288" size="0.8128" layer="25">2.65V</text>
