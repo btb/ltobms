@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2020-08-12T20:45:16Z",
+        "CreationDate": "2020-08-13T01:27:57Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -18,7 +18,7 @@
         "Owner": "Bradley Bell <bradley.bell@gmail.com>",
         "Size": {
             "X": 35.56,
-            "Y": 60.96
+            "Y": 62.23
         }
     }
 }
