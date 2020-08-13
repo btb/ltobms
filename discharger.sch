@@ -9920,89 +9920,209 @@ Source: www.kingbright.com</description>
 <parts>
 <part name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X13" device="" package3d_urn="urn:adsk.eagle:package:22421/2" value="LTOBMS"/>
 <part name="U1" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ1" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U2" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ2" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U3" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ3" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED3" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED3" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U4" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ4" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED4" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED4" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U5" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ5" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED5" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED5" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U6" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R17" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R18" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R17" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R18" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ6" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R16" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED6" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R16" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED6" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U7" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R20" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R21" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R20" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R21" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ7" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R19" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED7" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R19" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED7" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U8" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R23" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R24" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R23" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R24" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ8" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R22" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED8" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R22" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED8" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U9" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R26" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R27" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R26" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R27" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ9" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R25" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED9" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R25" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED9" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U10" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R29" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R30" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R29" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R30" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ10" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R28" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED10" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R28" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED10" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U11" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R32" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R33" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R32" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R33" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ11" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R31" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED11" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R31" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED11" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 <part name="U12" library="ltobms" deviceset="BW6101" device=""/>
-<part name="R35" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R"/>
-<part name="R36" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K"/>
+<part name="R35" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R2512" package3d_urn="urn:adsk.eagle:package:23545/2" value="47R">
+<attribute name="LCSCPART#" value="C25384"/>
+</part>
+<part name="R36" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1K">
+<attribute name="LCSCPART#" value="C17513"/>
+</part>
 <part name="SJ12" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1" value="Vselect"/>
-<part name="R34" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R"/>
-<part name="LED12" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIP-LED0805" package3d_urn="urn:adsk.eagle:package:15818/2" value="ALARM"/>
-<part name="C12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF"/>
+<part name="R34" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100R">
+<attribute name="LCSCPART#" value="C17408"/>
+</part>
+<part name="LED12" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="SML0805" package3d_urn="urn:adsk.eagle:package:15830/1" value="ALARM">
+<attribute name="LCSCPART#" value="C84256"/>
+</part>
+<part name="C12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="0.1uF">
+<attribute name="LCSCPART#" value="C49678"/>
+</part>
 </parts>
 <sheets>
 <sheet>
@@ -10020,10 +10140,12 @@ Source: www.kingbright.com</description>
 <instance part="R2" gate="G$1" x="68.58" y="17.78" smashed="yes">
 <attribute name="NAME" x="71.628" y="19.05" size="1.778" layer="95"/>
 <attribute name="VALUE" x="71.12" y="15.24" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="17.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R3" gate="G$1" x="17.78" y="20.32" smashed="yes">
 <attribute name="NAME" x="19.05" y="21.8186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.59" y="17.018" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="17.78" y="20.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ1" gate="G$1" x="22.86" y="10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="21.336" y="11.938" size="1.778" layer="95" rot="R180"/>
@@ -10032,14 +10154,17 @@ Source: www.kingbright.com</description>
 <instance part="R1" gate="G$1" x="68.58" y="12.7" smashed="yes">
 <attribute name="NAME" x="62.484" y="13.462" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="10.16" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED1" gate="G$1" x="76.2" y="10.16" smashed="yes">
 <attribute name="NAME" x="79.756" y="5.588" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="81.915" y="5.588" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="76.2" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C1" gate="G$1" x="30.48" y="20.32" smashed="yes">
 <attribute name="NAME" x="26.924" y="20.701" size="1.778" layer="95"/>
 <attribute name="VALUE" x="26.924" y="15.621" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="30.48" y="20.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U2" gate="G$1" x="48.26" y="40.64" smashed="yes">
 <attribute name="NAME" x="43.18" y="48.26" size="1.778" layer="95"/>
@@ -10048,10 +10173,12 @@ Source: www.kingbright.com</description>
 <instance part="R5" gate="G$1" x="68.58" y="43.18" smashed="yes">
 <attribute name="NAME" x="71.628" y="44.45" size="1.778" layer="95"/>
 <attribute name="VALUE" x="71.12" y="40.64" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="43.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R6" gate="G$1" x="17.78" y="45.72" smashed="yes">
 <attribute name="NAME" x="19.05" y="47.2186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.59" y="42.418" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="17.78" y="45.72" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ2" gate="G$1" x="22.86" y="35.56" smashed="yes" rot="R180">
 <attribute name="NAME" x="21.336" y="37.338" size="1.778" layer="95" rot="R180"/>
@@ -10060,14 +10187,17 @@ Source: www.kingbright.com</description>
 <instance part="R4" gate="G$1" x="68.58" y="38.1" smashed="yes">
 <attribute name="NAME" x="62.484" y="38.862" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="35.56" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED2" gate="G$1" x="76.2" y="35.56" smashed="yes">
 <attribute name="NAME" x="79.756" y="30.988" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="81.915" y="30.988" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="76.2" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C2" gate="G$1" x="30.48" y="45.72" smashed="yes">
 <attribute name="NAME" x="26.924" y="46.101" size="1.778" layer="95"/>
 <attribute name="VALUE" x="26.924" y="41.021" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="30.48" y="45.72" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U3" gate="G$1" x="48.26" y="66.04" smashed="yes">
 <attribute name="NAME" x="43.18" y="73.66" size="1.778" layer="95"/>
@@ -10076,10 +10206,12 @@ Source: www.kingbright.com</description>
 <instance part="R8" gate="G$1" x="68.58" y="68.58" smashed="yes">
 <attribute name="NAME" x="71.628" y="69.85" size="1.778" layer="95"/>
 <attribute name="VALUE" x="71.12" y="66.04" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="68.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R9" gate="G$1" x="17.78" y="71.12" smashed="yes">
 <attribute name="NAME" x="19.05" y="72.6186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.59" y="67.818" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="17.78" y="71.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ3" gate="G$1" x="22.86" y="60.96" smashed="yes" rot="R180">
 <attribute name="NAME" x="21.336" y="62.738" size="1.778" layer="95" rot="R180"/>
@@ -10088,14 +10220,17 @@ Source: www.kingbright.com</description>
 <instance part="R7" gate="G$1" x="68.58" y="63.5" smashed="yes">
 <attribute name="NAME" x="62.484" y="64.262" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="60.96" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED3" gate="G$1" x="76.2" y="60.96" smashed="yes">
 <attribute name="NAME" x="79.756" y="56.388" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="81.915" y="56.388" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="76.2" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C3" gate="G$1" x="30.48" y="71.12" smashed="yes">
 <attribute name="NAME" x="26.924" y="71.501" size="1.778" layer="95"/>
 <attribute name="VALUE" x="26.924" y="66.421" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="30.48" y="71.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U4" gate="G$1" x="48.26" y="91.44" smashed="yes">
 <attribute name="NAME" x="43.18" y="99.06" size="1.778" layer="95"/>
@@ -10104,10 +10239,12 @@ Source: www.kingbright.com</description>
 <instance part="R11" gate="G$1" x="68.58" y="93.98" smashed="yes">
 <attribute name="NAME" x="71.628" y="95.25" size="1.778" layer="95"/>
 <attribute name="VALUE" x="71.12" y="91.44" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="93.98" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R12" gate="G$1" x="17.78" y="96.52" smashed="yes">
 <attribute name="NAME" x="19.05" y="98.0186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.59" y="93.218" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="17.78" y="96.52" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ4" gate="G$1" x="22.86" y="86.36" smashed="yes" rot="R180">
 <attribute name="NAME" x="21.336" y="88.138" size="1.778" layer="95" rot="R180"/>
@@ -10116,14 +10253,17 @@ Source: www.kingbright.com</description>
 <instance part="R10" gate="G$1" x="68.58" y="88.9" smashed="yes">
 <attribute name="NAME" x="62.484" y="89.662" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="86.36" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED4" gate="G$1" x="76.2" y="86.36" smashed="yes">
 <attribute name="NAME" x="79.756" y="81.788" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="81.915" y="81.788" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="76.2" y="86.36" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C4" gate="G$1" x="30.48" y="96.52" smashed="yes">
 <attribute name="NAME" x="26.924" y="96.901" size="1.778" layer="95"/>
 <attribute name="VALUE" x="26.924" y="91.821" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="30.48" y="96.52" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U5" gate="G$1" x="48.26" y="116.84" smashed="yes">
 <attribute name="NAME" x="43.18" y="124.46" size="1.778" layer="95"/>
@@ -10132,10 +10272,12 @@ Source: www.kingbright.com</description>
 <instance part="R14" gate="G$1" x="68.58" y="119.38" smashed="yes">
 <attribute name="NAME" x="71.628" y="120.65" size="1.778" layer="95"/>
 <attribute name="VALUE" x="71.12" y="116.84" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R15" gate="G$1" x="17.78" y="121.92" smashed="yes">
 <attribute name="NAME" x="19.05" y="123.4186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.59" y="118.618" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="17.78" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ5" gate="G$1" x="22.86" y="111.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="21.336" y="113.538" size="1.778" layer="95" rot="R180"/>
@@ -10144,14 +10286,17 @@ Source: www.kingbright.com</description>
 <instance part="R13" gate="G$1" x="68.58" y="114.3" smashed="yes">
 <attribute name="NAME" x="62.484" y="115.062" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="111.76" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED5" gate="G$1" x="76.2" y="111.76" smashed="yes">
 <attribute name="NAME" x="79.756" y="107.188" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="81.915" y="107.188" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="76.2" y="111.76" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C5" gate="G$1" x="30.48" y="121.92" smashed="yes">
 <attribute name="NAME" x="26.924" y="122.301" size="1.778" layer="95"/>
 <attribute name="VALUE" x="26.924" y="117.221" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="30.48" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U6" gate="G$1" x="48.26" y="142.24" smashed="yes">
 <attribute name="NAME" x="43.18" y="149.86" size="1.778" layer="95"/>
@@ -10160,10 +10305,12 @@ Source: www.kingbright.com</description>
 <instance part="R17" gate="G$1" x="68.58" y="144.78" smashed="yes">
 <attribute name="NAME" x="71.628" y="146.05" size="1.778" layer="95"/>
 <attribute name="VALUE" x="71.12" y="142.24" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="144.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R18" gate="G$1" x="17.78" y="147.32" smashed="yes">
 <attribute name="NAME" x="19.05" y="148.8186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.59" y="144.018" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="17.78" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ6" gate="G$1" x="22.86" y="137.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="21.336" y="138.938" size="1.778" layer="95" rot="R180"/>
@@ -10172,14 +10319,17 @@ Source: www.kingbright.com</description>
 <instance part="R16" gate="G$1" x="68.58" y="139.7" smashed="yes">
 <attribute name="NAME" x="62.484" y="140.462" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="137.16" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="68.58" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED6" gate="G$1" x="76.2" y="137.16" smashed="yes">
 <attribute name="NAME" x="79.756" y="132.588" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="81.915" y="132.588" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="76.2" y="137.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C6" gate="G$1" x="30.48" y="147.32" smashed="yes">
 <attribute name="NAME" x="26.924" y="147.701" size="1.778" layer="95"/>
 <attribute name="VALUE" x="26.924" y="142.621" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="30.48" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U7" gate="G$1" x="142.24" y="15.24" smashed="yes">
 <attribute name="NAME" x="137.16" y="22.86" size="1.778" layer="95"/>
@@ -10188,10 +10338,12 @@ Source: www.kingbright.com</description>
 <instance part="R20" gate="G$1" x="162.56" y="17.78" smashed="yes">
 <attribute name="NAME" x="165.608" y="19.05" size="1.778" layer="95"/>
 <attribute name="VALUE" x="165.1" y="15.24" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="17.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R21" gate="G$1" x="111.76" y="20.32" smashed="yes">
 <attribute name="NAME" x="113.03" y="21.8186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="17.018" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="111.76" y="20.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ7" gate="G$1" x="116.84" y="10.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.316" y="11.938" size="1.778" layer="95" rot="R180"/>
@@ -10200,14 +10352,17 @@ Source: www.kingbright.com</description>
 <instance part="R19" gate="G$1" x="162.56" y="12.7" smashed="yes">
 <attribute name="NAME" x="156.464" y="13.462" size="1.778" layer="95"/>
 <attribute name="VALUE" x="154.94" y="10.16" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="12.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED7" gate="G$1" x="170.18" y="10.16" smashed="yes">
 <attribute name="NAME" x="173.736" y="5.588" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="175.895" y="5.588" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="170.18" y="10.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C7" gate="G$1" x="124.46" y="20.32" smashed="yes">
 <attribute name="NAME" x="120.904" y="20.701" size="1.778" layer="95"/>
 <attribute name="VALUE" x="120.904" y="15.621" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="124.46" y="20.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U8" gate="G$1" x="142.24" y="40.64" smashed="yes">
 <attribute name="NAME" x="137.16" y="48.26" size="1.778" layer="95"/>
@@ -10216,10 +10371,12 @@ Source: www.kingbright.com</description>
 <instance part="R23" gate="G$1" x="162.56" y="43.18" smashed="yes">
 <attribute name="NAME" x="165.608" y="44.45" size="1.778" layer="95"/>
 <attribute name="VALUE" x="165.1" y="40.64" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="43.18" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R24" gate="G$1" x="111.76" y="45.72" smashed="yes">
 <attribute name="NAME" x="113.03" y="47.2186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="42.418" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="111.76" y="45.72" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ8" gate="G$1" x="116.84" y="35.56" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.316" y="37.338" size="1.778" layer="95" rot="R180"/>
@@ -10228,14 +10385,17 @@ Source: www.kingbright.com</description>
 <instance part="R22" gate="G$1" x="162.56" y="38.1" smashed="yes">
 <attribute name="NAME" x="156.464" y="38.862" size="1.778" layer="95"/>
 <attribute name="VALUE" x="154.94" y="35.56" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="38.1" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED8" gate="G$1" x="170.18" y="35.56" smashed="yes">
 <attribute name="NAME" x="173.736" y="30.988" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="175.895" y="30.988" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="170.18" y="35.56" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C8" gate="G$1" x="124.46" y="45.72" smashed="yes">
 <attribute name="NAME" x="120.904" y="46.101" size="1.778" layer="95"/>
 <attribute name="VALUE" x="120.904" y="41.021" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="124.46" y="45.72" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U9" gate="G$1" x="142.24" y="66.04" smashed="yes">
 <attribute name="NAME" x="137.16" y="73.66" size="1.778" layer="95"/>
@@ -10244,10 +10404,12 @@ Source: www.kingbright.com</description>
 <instance part="R26" gate="G$1" x="162.56" y="68.58" smashed="yes">
 <attribute name="NAME" x="165.608" y="69.85" size="1.778" layer="95"/>
 <attribute name="VALUE" x="165.1" y="66.04" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="68.58" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R27" gate="G$1" x="111.76" y="71.12" smashed="yes">
 <attribute name="NAME" x="113.03" y="72.6186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="67.818" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="111.76" y="71.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ9" gate="G$1" x="116.84" y="60.96" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.316" y="62.738" size="1.778" layer="95" rot="R180"/>
@@ -10256,14 +10418,17 @@ Source: www.kingbright.com</description>
 <instance part="R25" gate="G$1" x="162.56" y="63.5" smashed="yes">
 <attribute name="NAME" x="156.464" y="64.262" size="1.778" layer="95"/>
 <attribute name="VALUE" x="154.94" y="60.96" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="63.5" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED9" gate="G$1" x="170.18" y="60.96" smashed="yes">
 <attribute name="NAME" x="173.736" y="56.388" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="175.895" y="56.388" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="170.18" y="60.96" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C9" gate="G$1" x="124.46" y="71.12" smashed="yes">
 <attribute name="NAME" x="120.904" y="71.501" size="1.778" layer="95"/>
 <attribute name="VALUE" x="120.904" y="66.421" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="124.46" y="71.12" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U10" gate="G$1" x="142.24" y="91.44" smashed="yes">
 <attribute name="NAME" x="137.16" y="99.06" size="1.778" layer="95"/>
@@ -10272,10 +10437,12 @@ Source: www.kingbright.com</description>
 <instance part="R29" gate="G$1" x="162.56" y="93.98" smashed="yes">
 <attribute name="NAME" x="165.608" y="95.25" size="1.778" layer="95"/>
 <attribute name="VALUE" x="165.1" y="91.44" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="93.98" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R30" gate="G$1" x="111.76" y="96.52" smashed="yes">
 <attribute name="NAME" x="113.03" y="98.0186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="93.218" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="111.76" y="96.52" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ10" gate="G$1" x="116.84" y="86.36" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.316" y="88.138" size="1.778" layer="95" rot="R180"/>
@@ -10284,14 +10451,17 @@ Source: www.kingbright.com</description>
 <instance part="R28" gate="G$1" x="162.56" y="88.9" smashed="yes">
 <attribute name="NAME" x="156.464" y="89.662" size="1.778" layer="95"/>
 <attribute name="VALUE" x="154.94" y="86.36" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED10" gate="G$1" x="170.18" y="86.36" smashed="yes">
 <attribute name="NAME" x="173.736" y="81.788" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="175.895" y="81.788" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="170.18" y="86.36" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C10" gate="G$1" x="124.46" y="96.52" smashed="yes">
 <attribute name="NAME" x="120.904" y="96.901" size="1.778" layer="95"/>
 <attribute name="VALUE" x="120.904" y="91.821" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="124.46" y="96.52" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U11" gate="G$1" x="142.24" y="116.84" smashed="yes">
 <attribute name="NAME" x="137.16" y="124.46" size="1.778" layer="95"/>
@@ -10300,10 +10470,12 @@ Source: www.kingbright.com</description>
 <instance part="R32" gate="G$1" x="162.56" y="119.38" smashed="yes">
 <attribute name="NAME" x="165.608" y="120.65" size="1.778" layer="95"/>
 <attribute name="VALUE" x="165.1" y="116.84" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R33" gate="G$1" x="111.76" y="121.92" smashed="yes">
 <attribute name="NAME" x="113.03" y="123.4186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="118.618" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="111.76" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ11" gate="G$1" x="116.84" y="111.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.316" y="113.538" size="1.778" layer="95" rot="R180"/>
@@ -10312,14 +10484,17 @@ Source: www.kingbright.com</description>
 <instance part="R31" gate="G$1" x="162.56" y="114.3" smashed="yes">
 <attribute name="NAME" x="156.464" y="115.062" size="1.778" layer="95"/>
 <attribute name="VALUE" x="154.94" y="111.76" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="114.3" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED11" gate="G$1" x="170.18" y="111.76" smashed="yes">
 <attribute name="NAME" x="173.736" y="107.188" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="175.895" y="107.188" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="170.18" y="111.76" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C11" gate="G$1" x="124.46" y="121.92" smashed="yes">
 <attribute name="NAME" x="120.904" y="122.301" size="1.778" layer="95"/>
 <attribute name="VALUE" x="120.904" y="117.221" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="124.46" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U12" gate="G$1" x="142.24" y="142.24" smashed="yes">
 <attribute name="NAME" x="137.16" y="149.86" size="1.778" layer="95"/>
@@ -10328,10 +10503,12 @@ Source: www.kingbright.com</description>
 <instance part="R35" gate="G$1" x="162.56" y="144.78" smashed="yes">
 <attribute name="NAME" x="165.608" y="146.05" size="1.778" layer="95"/>
 <attribute name="VALUE" x="165.1" y="142.24" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="144.78" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R36" gate="G$1" x="111.76" y="147.32" smashed="yes">
 <attribute name="NAME" x="113.03" y="148.8186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="115.57" y="144.018" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="111.76" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="SJ12" gate="G$1" x="116.84" y="137.16" smashed="yes" rot="R180">
 <attribute name="NAME" x="115.316" y="138.938" size="1.778" layer="95" rot="R180"/>
@@ -10340,14 +10517,17 @@ Source: www.kingbright.com</description>
 <instance part="R34" gate="G$1" x="162.56" y="139.7" smashed="yes">
 <attribute name="NAME" x="156.464" y="140.462" size="1.778" layer="95"/>
 <attribute name="VALUE" x="154.94" y="137.16" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="162.56" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="LED12" gate="G$1" x="170.18" y="137.16" smashed="yes">
 <attribute name="NAME" x="173.736" y="132.588" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="175.895" y="132.588" size="1.778" layer="96" rot="R90"/>
+<attribute name="LCSCPART#" x="170.18" y="137.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C12" gate="G$1" x="124.46" y="147.32" smashed="yes">
 <attribute name="NAME" x="120.904" y="147.701" size="1.778" layer="95"/>
 <attribute name="VALUE" x="120.904" y="142.621" size="1.778" layer="96"/>
+<attribute name="LCSCPART#" x="124.46" y="147.32" size="1.778" layer="96" display="off"/>
 </instance>
 </instances>
 <busses>
