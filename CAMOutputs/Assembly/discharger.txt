@@ -1,11 +1,12 @@
-Partlist exported from /Users/bradleyb/Documents/EAGLE/projects/LTOBMS/discharger.sch at 8/12/20 6:27 PM
+Partlist exported from /Users/bradleyb/Documents/EAGLE/projects/LTOBMS/discharger.sch at 8/16/20 5:21 PM
 
-Qty Value   Device          Package      Parts                                                                     Description                              POPULARITY
-12  0.1uF   C-EUC0805       C0805        C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12                         CAPACITOR, European symbol                         
-12  100R    R-US_R0805      R0805        R1, R4, R7, R10, R13, R16, R19, R22, R25, R28, R31, R34                   RESISTOR, American symbol                          
-12  1K      R-US_R0805      R0805        R3, R6, R9, R12, R15, R18, R21, R24, R27, R30, R33, R36                   RESISTOR, American symbol                          
-12  47R     R-US_R2512      R2512        R2, R5, R8, R11, R14, R17, R20, R23, R26, R29, R32, R35                   RESISTOR, American symbol                          
-12  ALARM   LEDCHIP-LED0805 CHIP-LED0805 LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12 LED                                      68        
-12  BW6101  BW6101          SOT23-5L     U1, U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12                         Super capacitor charging protection chip           
-1   LTOBMS  PINHD-1X13      1X13         JP1                                                                       PIN HEADER                               5         
-12  Vselect SJ2W            SJ_2         SJ1, SJ2, SJ3, SJ4, SJ5, SJ6, SJ7, SJ8, SJ9, SJ10, SJ11, SJ12             SMD solder JUMPER                        7         
+Qty Value   Device     Package  Parts                                                                                                                  Description                              LCSCPART# POPULARITY
+12  0.1uF   C-EUC0603  C0603    C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12                                                                      CAPACITOR, European symbol               C49678              
+24  100R    R-US_R0603 R0603    R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36 RESISTOR, American symbol                C17408              
+12  1K      R-US_R0805 R0805    R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48                                                             RESISTOR, American symbol                C17513              
+12  47R     R-US_R2512 R2512    R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12                                                                      RESISTOR, American symbol                C25384              
+12  ALARM   LEDSML0805 SML0805  LED13, LED14, LED15, LED16, LED17, LED18, LED19, LED20, LED21, LED22, LED23, LED24                                     LED                                      C84256    17        
+12  BLEED   LEDSML0805 SML0805  LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12                                              LED                                      C84256    17        
+12  BW6101  BW6101     SOT23-5L U1, U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12                                                                      Super capacitor charging protection chip                     
+1   LTOBMS  PINHD-1X13 1X13     JP1                                                                                                                    PIN HEADER                                         5         
+12  Vselect SJ2W       SJ_2     SJ1, SJ2, SJ3, SJ4, SJ5, SJ6, SJ7, SJ8, SJ9, SJ10, SJ11, SJ12                                                          SMD solder JUMPER                                  7         
