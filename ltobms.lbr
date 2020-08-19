@@ -99,6 +99,7 @@ package type OT</description>
 <rectangle x1="0.7" y1="-1.5" x2="1.2" y2="-0.85" layer="51"/>
 <rectangle x1="0.7" y1="0.85" x2="1.2" y2="1.5" layer="51"/>
 <rectangle x1="-1.2" y1="0.85" x2="-0.7" y2="1.5" layer="51"/>
+<circle x="-1.016" y="-0.381" radius="0.127" width="0.3048" layer="21"/>
 </package>
 </packages>
 <symbols>
