@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="yes"/>
@@ -227,6 +227,48 @@ package type OT</description>
 <text x="0" y="0.9525" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
 <text x="0" y="-0.9525" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
 </package>
+<package name="71607313LF">
+<description>&lt;b&gt;71607-313LF-1&lt;/b&gt;&lt;br&gt;
+</description>
+<smd name="1" x="-15.24" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="2" x="-12.7" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="3" x="-10.16" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="4" x="-7.62" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="5" x="-5.08" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="6" x="-2.54" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="7" x="0" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="8" x="2.54" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="9" x="5.08" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="10" x="7.62" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="11" x="10.16" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="12" x="12.7" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="13" x="15.24" y="-4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="14" x="15.24" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="15" x="12.7" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="16" x="10.16" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="17" x="7.62" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="18" x="5.08" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="19" x="2.54" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="20" x="0" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="21" x="-2.54" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="22" x="-5.08" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="23" x="-7.62" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="24" x="-10.16" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="25" x="-12.7" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<smd name="26" x="-15.24" y="4.825" dx="1.78" dy="1.27" layer="1" rot="R90"/>
+<text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
+<text x="0" y="0" size="1.27" layer="27" align="center">&gt;VALUE</text>
+<wire x1="-16.47" y1="4.2" x2="16.47" y2="4.2" width="0.2" layer="51"/>
+<wire x1="16.47" y1="4.2" x2="16.47" y2="-4.2" width="0.2" layer="51"/>
+<wire x1="16.47" y1="-4.2" x2="-16.47" y2="-4.2" width="0.2" layer="51"/>
+<wire x1="-16.47" y1="-4.2" x2="-16.47" y2="4.2" width="0.2" layer="51"/>
+<wire x1="-17.47" y1="6.715" x2="17.47" y2="6.715" width="0.1" layer="51"/>
+<wire x1="17.47" y1="6.715" x2="17.47" y2="-6.715" width="0.1" layer="51"/>
+<wire x1="17.47" y1="-6.715" x2="-17.47" y2="-6.715" width="0.1" layer="51"/>
+<wire x1="-17.47" y1="-6.715" x2="-17.47" y2="6.715" width="0.1" layer="51"/>
+<wire x1="16.47" y1="4.2" x2="16.47" y2="-4.2" width="0.1" layer="21"/>
+<wire x1="-16.47" y1="4.2" x2="-16.47" y2="-4.2" width="0.1" layer="21"/>
+</package>
 </packages>
 <packages3d>
 <package3d name="LED-0603" urn="urn:adsk.eagle:package:39354/1" type="box">
@@ -298,6 +340,40 @@ LED</description>
 <vertex x="-2.921" y="-2.413"/>
 <vertex x="-2.413" y="-2.921"/>
 </polygon>
+</symbol>
+<symbol name="71607-313LF">
+<wire x1="5.08" y1="2.54" x2="17.78" y2="2.54" width="0.254" layer="94"/>
+<wire x1="17.78" y1="-33.02" x2="17.78" y2="2.54" width="0.254" layer="94"/>
+<wire x1="17.78" y1="-33.02" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
+<wire x1="5.08" y1="2.54" x2="5.08" y2="-33.02" width="0.254" layer="94"/>
+<text x="19.05" y="7.62" size="1.778" layer="95" align="center-left">&gt;NAME</text>
+<text x="19.05" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
+<pin name="1" x="0" y="0" length="middle"/>
+<pin name="2" x="0" y="-2.54" length="middle"/>
+<pin name="3" x="0" y="-5.08" length="middle"/>
+<pin name="4" x="0" y="-7.62" length="middle"/>
+<pin name="5" x="0" y="-10.16" length="middle"/>
+<pin name="6" x="0" y="-12.7" length="middle"/>
+<pin name="7" x="0" y="-15.24" length="middle"/>
+<pin name="8" x="0" y="-17.78" length="middle"/>
+<pin name="9" x="0" y="-20.32" length="middle"/>
+<pin name="10" x="0" y="-22.86" length="middle"/>
+<pin name="11" x="0" y="-25.4" length="middle"/>
+<pin name="12" x="0" y="-27.94" length="middle"/>
+<pin name="13" x="0" y="-30.48" length="middle"/>
+<pin name="14" x="22.86" y="-30.48" length="middle" rot="R180"/>
+<pin name="15" x="22.86" y="-27.94" length="middle" rot="R180"/>
+<pin name="16" x="22.86" y="-25.4" length="middle" rot="R180"/>
+<pin name="17" x="22.86" y="-22.86" length="middle" rot="R180"/>
+<pin name="18" x="22.86" y="-20.32" length="middle" rot="R180"/>
+<pin name="19" x="22.86" y="-17.78" length="middle" rot="R180"/>
+<pin name="20" x="22.86" y="-15.24" length="middle" rot="R180"/>
+<pin name="21" x="22.86" y="-12.7" length="middle" rot="R180"/>
+<pin name="22" x="22.86" y="-10.16" length="middle" rot="R180"/>
+<pin name="23" x="22.86" y="-7.62" length="middle" rot="R180"/>
+<pin name="24" x="22.86" y="-5.08" length="middle" rot="R180"/>
+<pin name="25" x="22.86" y="-2.54" length="middle" rot="R180"/>
+<pin name="26" x="22.86" y="0" length="middle" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -390,6 +466,55 @@ Used in manufacturing several products at SparkFun.
 <technology name="">
 <attribute name="PROD_ID" value="DIO-09003"/>
 <attribute name="VALUE" value="Yellow" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="71607-313LF" prefix="J">
+<description>&lt;b&gt;DUBOX / Tube RoHS Compliant: Yes&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href=""&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="71607-313LF" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="71607313LF">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="10" pad="10"/>
+<connect gate="G$1" pin="11" pad="11"/>
+<connect gate="G$1" pin="12" pad="12"/>
+<connect gate="G$1" pin="13" pad="13"/>
+<connect gate="G$1" pin="14" pad="14"/>
+<connect gate="G$1" pin="15" pad="15"/>
+<connect gate="G$1" pin="16" pad="16"/>
+<connect gate="G$1" pin="17" pad="17"/>
+<connect gate="G$1" pin="18" pad="18"/>
+<connect gate="G$1" pin="19" pad="19"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="20" pad="20"/>
+<connect gate="G$1" pin="21" pad="21"/>
+<connect gate="G$1" pin="22" pad="22"/>
+<connect gate="G$1" pin="23" pad="23"/>
+<connect gate="G$1" pin="24" pad="24"/>
+<connect gate="G$1" pin="25" pad="25"/>
+<connect gate="G$1" pin="26" pad="26"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="DESCRIPTION" value="DUBOX / Tube RoHS Compliant: Yes" constant="no"/>
+<attribute name="HEIGHT" value="3.29mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Amphenol" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="71607-313LF" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="649-71607-313LF" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/71607-313LF?qs=yJYkLTYh574OxHiM9YZfow%3D%3D" constant="no"/>
 </technology>
 </technologies>
 </device>
