@@ -1,5 +1,5 @@
-Partlist exported from /Users/bradleyb/Documents/EAGLE/projects/LTOBMS/adapter.sch at 8/20/20 2:14 AM
+Partlist exported from /Users/bradleyb/Documents/EAGLE/projects/LTOBMS/adapter.sch at 9/7/20 6:14 PM
 
-Qty Value Device     Package Parts                                                                Description POPULARITY
-13        PINHD-1X1  1X01    JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP13, JP14 PIN HEADER  64        
-1         PINHD-1X13 1X13    JP1                                                                  PIN HEADER  5         
+Qty Value       Device      Package    Parts                                                                Description                      DESCRIPTION                      HEIGHT MANUFACTURER_NAME MANUFACTURER_PART_NUMBER MOUSER_PART_NUMBER MOUSER_PRICE-STOCK                                                                              POPULARITY
+13              PINHD-1X1   1X01       JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP13, JP14 PIN HEADER                                                                                                                                                                                                                             64        
+1   71607-313LF 71607-313LF 71607313LF J1                                                                   DUBOX / Tube RoHS Compliant: Yes DUBOX / Tube RoHS Compliant: Yes 3.29mm Amphenol          71607-313LF              649-71607-313LF    https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/71607-313LF?qs=yJYkLTYh574OxHiM9YZfow%3D%3D           
