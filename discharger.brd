@@ -160,8 +160,8 @@
 <plain>
 <wire x1="0" y1="0" x2="35.56" y2="0" width="0" layer="20"/>
 <wire x1="35.56" y1="0" x2="35.56" y2="69.85" width="0" layer="20"/>
+<wire x1="35.56" y1="69.85" x2="0" y2="69.85" width="0" layer="20"/>
 <wire x1="0" y1="69.85" x2="0" y2="0" width="0" layer="20"/>
-<wire x1="0" y1="69.85" x2="35.56" y2="69.85" width="0" layer="20"/>
 <text x="3.302" y="1.778" size="0.6096" layer="25">2.45V</text>
 <text x="3.302" y="4.318" size="0.6096" layer="25">2.65V</text>
 <text x="3.302" y="6.858" size="0.6096" layer="25">2.45V</text>
