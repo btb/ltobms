@@ -1601,7 +1601,7 @@ LED - BLUE</description>
 </library>
 </libraries>
 <attributes>
-<attribute name="REV" value="v0.03"/>
+<attribute name="REV" value="v0.04"/>
 </attributes>
 <variantdefs>
 </variantdefs>
